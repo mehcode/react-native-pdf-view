@@ -6,8 +6,8 @@
 //  Copyright © 2016 Facebook. All rights reserved.
 //
 
-#import "RCTEventDispatcher.h"
-#import "UIView+React.h"
+#import <React/RCTEventDispatcher.h>
+#import <React/UIView+React.h>
 
 @class RCTEventDispatcher;
 
